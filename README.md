@@ -8,7 +8,7 @@ do curso "versionamento de código com Git e Github" da [Digital Inovation One](
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação Github](https://docs.github.com/pt)
 
-## 🖥️ RESUMOS DAS AULAS
+## 🖥️ RESUMOS
 
 | Aulas | Resumos |
 |-------|---------|
